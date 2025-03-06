@@ -1,1 +1,1 @@
-# sentiment_analysis
+# sentiment_analysis Sentiment analysis uses NLP and machine learning to determine the emotional tone of text, identifying if it's positive, negative, or neutral. It’s often used to analyze customer feedback or social media.
